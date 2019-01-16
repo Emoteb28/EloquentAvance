@@ -1,4 +1,5 @@
-Micro-Orm :
+Catawish
+
 1. Les pages des questions sont contenues dans le dossier script.
 
 2. Modifiez le config.ini dans le repertoire src/connection avec les informations de votre base de donnée pour créer une connexion à votre BD.
@@ -14,6 +15,5 @@ collation= utf8_unicode_ci
 prefix   =
 
 3. La base de donnée se trouve dans le repertoire BDD
-
 
 4. Lien Github: https://github.com/Emoteb28/EloquentAvance
