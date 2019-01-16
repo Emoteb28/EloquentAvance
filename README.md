@@ -1,0 +1,16 @@
+Micro-Orm :
+1. Les pages des questions sont contenues dans le dossier script.
+
+2. Modifiez le config.ini dans le repertoire src/connection avec les informations de votre base de donnée pour créer une connexion à votre BD.
+
+driver   = mysql
+host = localhost
+database = database
+user = phpmyadmin
+pass = mamann
+type = mysql
+charset  = utf8
+collation= utf8_unicode_ci
+prefix   =
+
+3. La base de donnée se trouve dans le repertoir BDD
