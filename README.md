@@ -13,4 +13,6 @@ charset  = utf8
 collation= utf8_unicode_ci
 prefix   =
 
-3. La base de donnée se trouve dans le repertoir BDD
+3. La base de donnée se trouve dans le repertoire BDD
+
+4. Lien Github: https://github.com/Emoteb28/EloquentAvance
